@@ -19,7 +19,7 @@ With VS Code:
 * Clone this repository.
 * Run `npm install` from the project root.
 * Run `bower install` from the project root.
-* Add android / iOS / windows platform to your project by running `ionic platform add <platform name>@latest` in a terminal from your project root.
+* Add android / iOS / windows platform to your project by running `ionic platform add <platform name>@latest --save` in a terminal from your project root.
 * Build the project by running gulp tsc and then `ionic build <platform name>`
 * Deploy to device or emulator by running `ionic run <platform name>` or `ionic emulate <platform name>`
 * Success
