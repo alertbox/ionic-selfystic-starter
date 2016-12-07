@@ -1,7 +1,7 @@
 {
-  "name": "io.cordova.myapp7e1bc8",
-  "version": "1.1.1",
-  "description": "ionic-js-blank: An Ionic project",
+  "name": "io.selfystic.app",
+  "version": "0.1.0",
+  "description": "",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
